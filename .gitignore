@@ -1,0 +1,17 @@
+venv/
+.venv/
+__pycache__/
+
+# Compiled binaries
+engine.dll
+engine.so
+libwinpthread-1.dll
+
+# Downloaded model
+models/
+
+# User data & logs
+profiles/
+*.txt
+stdout.txt
+stderr.txt
